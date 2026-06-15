@@ -31,9 +31,8 @@ I enjoy transforming ideas into real-world projects, participating in hackathons
 ### Programming Languages
 
 * C
-* C++
 * Python
-* JavaScript
+* R
 * Java
 
 ### Web Development
