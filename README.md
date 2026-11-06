@@ -1,116 +1,299 @@
-# Hi there, I'm Arnav Sharma 👋
 
-## 🚀 About Me
+<div align="center">
 
-I'm an enthusiastic Computer Science student passionate about building innovative solutions across Web Development, Cloud Computing, Cybersecurity, Blockchain, IoT, and AI-powered applications.
+<!-- 3D-STYLE ANIMATED HERO -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:050816,35:101D3A,70:253B68,100:5B4B9A&text=ARNAV%20SHARMA&fontColor=EAF2FF&fontSize=65&fontAlignY=40&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20CREATIVE%20TECH&descAlignY=61&descSize=15&animation=fadeIn" width="100%" alt="Arnav Sharma animated 3D-style banner"/>
 
-I enjoy transforming ideas into real-world projects, participating in hackathons, exploring emerging technologies, and continuously improving my technical skills through hands-on development.
+<br/>
 
-## 🎯 Current Focus
+### COMPUTER SCIENCE & ENGINEERING (ARTIFICIAL INTELLIGENCE)
 
-* 🌐 Full Stack Web Development
-* ☁️ Cloud Computing & DevOps
-* 🔐 Cybersecurity
-* ⛓️ Blockchain Development
-* 🤖 Artificial Intelligence Applications
-* 📡 Internet of Things (IoT)
-* 🎨 Modern 3D Portfolio & Interactive Web Experiences
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=75C9FF&center=true&vCenter=true&width=750&lines=Building+intelligent+systems%2C+not+just+interfaces.;Exploring+AI%2C+Cybersecurity+%26+Full+Stack.;Turning+complex+ideas+into+working+products.;Learn.+Build.+Innovate.+Repeat." alt="Animated introduction"/>
 
-## 🏆 Experiences & Participation
+<br/>
 
-* Web Development Virtual Intern at Pinnacle Labs
-* Participant in Hack Snippet 3.0 Hackathon
-* Attended Boot2Cloud11 Webinar by GeeksforGeeks Student Chapter UEM Kolkata
-* Participated in Blockchain Development Event by IEEE UEM Kolkata Student Branch
-* Attended Zenith Session on GATE preparation by IMIEEE Computer Society
-* Participant in Converse 2025 and Elevate 2025 Technical Events
-* Completed Hands-on IoT Workshop
+<!-- SOCIAL LINKS -->
+<a href="https://arnavsharma-ind.github.io/ArnavUpdatedPortfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1428?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/arnav-sharma-dev/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1428?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/_i_arnavsharma_">
+<img src="https://img.shields.io/badge/TWITTER%20%2F%20X-0D1428?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.instagram.com/_itsme.arnav_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1428?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="https://my-journey-jet.vercel.app/#">
+<img src="https://img.shields.io/badge/MY%20JOURNEY-0D1428?style=for-the-badge&logo=rocket&logoColor=white" alt="My Journey"/>
+</a>
+<a href="mailto:arnav.sharma9051@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1428?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
 
-## 💻 Tech Stack
+<br/><br/>
 
-### Programming Languages
+<img src="https://komarev.com/ghpvc/?username=ArnavSharma-IND&style=for-the-badge&color=253B68&label=PROFILE+VIEWS" alt="Profile views"/>
 
-* C
-* Python
-* R
-* Java
+</div>
 
-### Web Development
+---
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Next.js
-* Tailwind CSS
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## ◈ ABOUT ME
+
+Hey! I'm **Arnav Sharma**, a Computer Science and Engineering student specializing in Artificial Intelligence.
+
+I enjoy engineering products where **Artificial Intelligence, software architecture, cybersecurity, and creative interfaces** come together.
+
+I like taking ideas beyond prototypes: understanding the problem, designing the system, developing the frontend and backend, and making the entire experience work.
+
+- Building AI-powered applications
+- Exploring agentic AI and machine learning
+- Developing full-stack web applications
+- Exploring cybersecurity and intelligent automation
+- Experimenting with modern UI/UX and 3D web experiences
+
+</td>
+<td width="42%" valign="top">
+
+## ◈ QUICK PROFILE
+
+```yaml
+name: Arnav Sharma
+location: Kolkata, India
+degree: B.Tech CSE (AI)
+graduation: 2028
+
+interests:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Cybersecurity
+  - Agentic AI
+  - Machine Learning
+  - Creative Technology
+
+philosophy: "Learn. Build. Innovate."
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ THE BUILD LAB
+
+**A selection of projects exploring AI, intelligent systems, security, and software engineering.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ArnavSharma-IND/Cerberus-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=Cerberus-&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="Cerberus project"/>
+</a>
+
+### CERBERUS
+
+Runtime behavioral security for MCP-based AI agents, focused on detecting suspicious agent activity and enforcing security policies.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ArnavSharma-IND/SentryICU">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=SentryICU&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="SentryICU project"/>
+</a>
+
+### SENTRY ICU
+
+A modular deep-learning project exploring ICU deterioration analysis, temporal learning, and cross-hospital evaluation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ArnavSharma-IND/RegionalShield-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=RegionalShield-AI&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="RegionalShield project"/>
+</a>
+
+### REGIONALSHIELD AI
+
+Regional-language phishing and social-engineering detection designed for India's multilingual digital ecosystem.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ArnavSharma-IND/VocaRAG">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=VocaRAG&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="VocaRAG project"/>
+</a>
+
+### VOCARAG
+
+Voice-enabled multilingual Retrieval-Augmented Generation, combining speech processing, retrieval, and grounded responses.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ArnavSharma-IND/SignalForge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=SignalForge&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="SignalForge project"/>
+</a>
+
+### SIGNALFORGE
+
+AI-assisted financial research that connects evidence, detects contradictions, and challenges investment theses.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ArnavSharma-IND/Pramaan_v2.0">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=Pramaan_v2.0&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="Pramaan project"/>
+</a>
+
+### PRAMAAN
+
+A regulatory surveillance system concept combining computer vision, OCR, rule-based validation, and evidence workflows.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/ArnavSharma-IND?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-18233D?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+</a>
+
+</div>
+
+---
+
+## ◈ ENGINEERING TOOLKIT
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,r&theme=dark" alt="Programming languages"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" alt="Frontend technologies"/>
 
 ### Backend & Database
 
-* Node.js
-* Express.js
-* MongoDB
-* Firebase
-* MySQL
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite,supabase,firebase&theme=dark" alt="Backend and database technologies"/>
 
-### Cloud & DevOps
+### Tools & Platforms
 
-* Git
-* GitHub
-* Docker
-* Cloud Fundamentals
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman&theme=dark" alt="Developer tools"/>
 
-### Emerging Technologies
+</div>
 
-* IoT
-* Blockchain
-* Cybersecurity
-* AI Tools & Automation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+**AI & Data Science**
 
-### ✈️ AeroSphere
+- Machine Learning
+- Deep Learning
+- Retrieval-Augmented Generation
+- Pandas and NumPy
+- Scikit-learn
+- AI APIs and automation
 
-An aviation-inspired modern web project focused on immersive UI/UX, responsive design, and interactive user experiences.
+</td>
+<td width="50%" valign="top">
 
-### 🌸 Sakura
+**Development & Engineering**
 
-A beautifully designed web experience featuring elegant visuals, smooth animations, and modern frontend development practices.
+- Data Structures and Algorithms
+- Full-Stack Development
+- REST API Development
+- Database Design
+- Version Control
+- Responsive UI/UX
 
-### 🎨 3D Portfolio Website
+</td>
+</tr>
+</table>
 
-A premium interactive portfolio featuring:
+---
 
-* Smooth 3D animations
-* Dynamic transitions
-* Project showcases
-* Professional personal branding
-* Responsive user experience
+## ◈ GITHUB ANALYTICS
 
-## 📈 GitHub Stats
+<div align="center">
 
-```text
-🔥 Consistency over intensity
-📚 Always learning
-🚀 Building projects
-🎯 Growing every day
-```
+<img src="https://github-readme-stats.vercel.app/api?username=ArnavSharma-IND&show_icons=true&hide_border=true&bg_color=0B1020&title_color=75C9FF&icon_color=9B8CFF&text_color=DCE7F7&rank_icon=github" width="49%" alt="GitHub statistics"/>
 
-## 🌱 Currently Learning
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavSharma-IND&layout=compact&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7" width="49%" alt="Most used languages"/>
 
-* Advanced Full Stack Development
-* Cloud Architecture
-* Ethical Hacking
-* IoT Systems Design
-* AI Integration in Web Applications
-* Scalable Software Engineering
+<br/><br/>
 
-## 🤝 Let's Connect
+<img src="https://streak-stats.demolab.com?user=ArnavSharma-IND&hide_border=true&background=0B1020&ring=75C9FF&fire=9B8CFF&currStreakLabel=75C9FF&sideLabels=DCE7F7&dates=91A4C2&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub contribution streak"/>
 
-* LinkedIn: https://www.linkedin.com/in/arnav-sharma-dev
-* Email: [arnav.sharma9051@gmail.com](mailto:arnav.sharma9051@gmail.com)
+<br/><br/>
 
-## ✨ Motto
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSharma-IND&bg_color=0B1020&color=DCE7F7&line=75C9FF&point=9B8CFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
-> "Learn, Build, Innovate, Repeat."
+</div>
 
-⭐ If you like my projects, feel free to explore my repositories and connect with me.
+---
+
+## ◈ CERTIFICATIONS & ACHIEVEMENTS
+
+- **NPTEL – Programming in Java:** Elite + Gold Medal, 93%
+- **IBM Data Analyst:** Certificate completed
+- **Deloitte:** Technology Job Simulation
+- **Pinnacle Labs:** Web Development Virtual Internship
+- **Hackathons and Technical Events:** Active participation in development and innovation events
+
+---
+
+## ◈ BEYOND THE TERMINAL
+
+<div align="center">
+
+| CHESS | COMPETITIVE PROGRAMMING | MYTHOLOGY | CREATIVE TECHNOLOGY |
+|:---:|:---:|:---:|:---:|
+| Strategy | Problem Solving | Curiosity | Visual Experiences |
+
+</div>
+
+---
+
+<div align="center">
+
+## LET'S BUILD SOMETHING MEANINGFUL.
+
+Open to interesting conversations, collaborative projects, and engineering challenges.
+
+<a href="https://www.linkedin.com/in/arnav-sharma-dev/">
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-17233D?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://x.com/_i_arnavsharma_">
+<img src="https://img.shields.io/badge/FOLLOW-ON%20X-17233D?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
+</a>
+<a href="https://www.instagram.com/_itsme.arnav_/">
+<img src="https://img.shields.io/badge/FOLLOW-INSTAGRAM-17233D?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Follow on Instagram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&height=130&section=footer&color=0:5B4B9A,40:253B68,100:050816" width="100%" alt="Animated profile footer"/>
+
+### "Learn. Build. Innovate. Repeat."
+
+<sub>Designed with intent. Built with curiosity. Improved with every commit.</sub>
+
+</div>
