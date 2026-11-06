@@ -87,6 +87,7 @@ philosophy: "Learn. Build. Innovate."
 ---
 
 
+
 ## ◈ THE BUILD LAB
 
 **A selection of projects exploring AI, intelligent systems, security, and software engineering.**
@@ -96,10 +97,14 @@ philosophy: "Learn. Build. Innovate."
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="./assets/project-avatars/cerberus.png" width="150" alt="Cerberus 3D avatar"/>
-</div>
+<img src="./assets/project-avatars/cerberus.png" width="150" alt="Cerberus avatar"/>
 
 ### CERBERUS
+
+<a href="https://github.com/ArnavSharma-IND/Cerberus-">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-18233D?style=for-the-badge&logo=github&logoColor=white" alt="View Cerberus repository"/>
+</a>
+</div>
 
 Runtime behavioral security for MCP-based AI agents, focused on detecting suspicious agent activity and enforcing security policies.
 
@@ -107,10 +112,14 @@ Runtime behavioral security for MCP-based AI agents, focused on detecting suspic
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="./assets/project-avatars/sentry-icu.png" width="150" alt="Sentry ICU 3D avatar"/>
-</div>
+<img src="./assets/project-avatars/sentry-icu.png" width="150" alt="Sentry ICU avatar"/>
 
 ### SENTRY ICU
+
+<a href="https://github.com/ArnavSharma-IND/SentryICU">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-18233D?style=for-the-badge&logo=github&logoColor=white" alt="View Sentry ICU repository"/>
+</a>
+</div>
 
 A modular deep-learning project exploring ICU deterioration analysis, temporal learning, and cross-hospital evaluation.
 
@@ -121,10 +130,14 @@ A modular deep-learning project exploring ICU deterioration analysis, temporal l
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="./assets/project-avatars/regionalshield.png" width="150" alt="RegionalShield 3D avatar"/>
-</div>
+<img src="./assets/project-avatars/regionalshield.png" width="150" alt="RegionalShield avatar"/>
 
 ### REGIONALSHIELD AI
+
+<a href="https://github.com/ArnavSharma-IND/RegionalShield-AI">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-18233D?style=for-the-badge&logo=github&logoColor=white" alt="View RegionalShield repository"/>
+</a>
+</div>
 
 Regional-language phishing and social-engineering detection designed for India's multilingual digital ecosystem.
 
@@ -132,10 +145,14 @@ Regional-language phishing and social-engineering detection designed for India's
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="./assets/project-avatars/vocarag.png" width="150" alt="VocaRAG 3D avatar"/>
-</div>
+<img src="./assets/project-avatars/vocarag.png" width="150" alt="VocaRAG avatar"/>
 
 ### VOCARAG
+
+<a href="https://github.com/ArnavSharma-IND/VocaRAG">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-18233D?style=for-the-badge&logo=github&logoColor=white" alt="View VocaRAG repository"/>
+</a>
+</div>
 
 Voice-enabled multilingual Retrieval-Augmented Generation, combining speech processing, retrieval, and grounded responses.
 
@@ -146,10 +163,14 @@ Voice-enabled multilingual Retrieval-Augmented Generation, combining speech proc
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="./assets/project-avatars/signalforge.png" width="150" alt="SignalForge 3D avatar"/>
-</div>
+<img src="./assets/project-avatars/signalforge.png" width="150" alt="SignalForge avatar"/>
 
 ### SIGNALFORGE
+
+<a href="https://github.com/ArnavSharma-IND/SignalForge">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-18233D?style=for-the-badge&logo=github&logoColor=white" alt="View SignalForge repository"/>
+</a>
+</div>
 
 AI-assisted financial research that connects evidence, detects contradictions, and challenges investment theses.
 
@@ -157,10 +178,14 @@ AI-assisted financial research that connects evidence, detects contradictions, a
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="./assets/project-avatars/pramaan.png" width="150" alt="Pramaan 3D avatar"/>
-</div>
+<img src="./assets/project-avatars/pramaan.png" width="150" alt="Pramaan avatar"/>
 
 ### PRAMAAN
+
+<a href="https://github.com/ArnavSharma-IND/Pramaan_v2.0">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-18233D?style=for-the-badge&logo=github&logoColor=white" alt="View Pramaan repository"/>
+</a>
+</div>
 
 A regulatory surveillance system concept combining computer vision, OCR, rule-based validation, and evidence workflows.
 
@@ -175,6 +200,7 @@ A regulatory surveillance system concept combining computer vision, OCR, rule-ba
 </a>
 
 </div>
+
 
 ---
 
