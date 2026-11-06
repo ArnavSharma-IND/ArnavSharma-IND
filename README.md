@@ -57,6 +57,7 @@ I like taking ideas beyond prototypes: understanding the problem, designing the 
 - Developing full-stack web applications
 - Exploring cybersecurity and intelligent automation
 - Experimenting with modern UI/UX and 3D web experiences
+- AI/Ml, Neural Networks, Deep Learning and Big Data Enthusiast
 
 </td>
 <td width="42%" valign="top">
