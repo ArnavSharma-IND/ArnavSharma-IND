@@ -86,6 +86,7 @@ philosophy: "Learn. Build. Innovate."
 
 ---
 
+
 ## ◈ THE BUILD LAB
 
 **A selection of projects exploring AI, intelligent systems, security, and software engineering.**
@@ -94,9 +95,9 @@ philosophy: "Learn. Build. Innovate."
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ArnavSharma-IND/Cerberus-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=Cerberus-&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="Cerberus project"/>
-</a>
+<div align="center">
+<img src="./assets/project-avatars/cerberus.png" width="150" alt="Cerberus 3D avatar"/>
+</div>
 
 ### CERBERUS
 
@@ -105,9 +106,9 @@ Runtime behavioral security for MCP-based AI agents, focused on detecting suspic
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ArnavSharma-IND/SentryICU">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=SentryICU&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="SentryICU project"/>
-</a>
+<div align="center">
+<img src="./assets/project-avatars/sentry-icu.png" width="150" alt="Sentry ICU 3D avatar"/>
+</div>
 
 ### SENTRY ICU
 
@@ -119,9 +120,9 @@ A modular deep-learning project exploring ICU deterioration analysis, temporal l
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ArnavSharma-IND/RegionalShield-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=RegionalShield-AI&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="RegionalShield project"/>
-</a>
+<div align="center">
+<img src="./assets/project-avatars/regionalshield.png" width="150" alt="RegionalShield 3D avatar"/>
+</div>
 
 ### REGIONALSHIELD AI
 
@@ -130,9 +131,9 @@ Regional-language phishing and social-engineering detection designed for India's
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ArnavSharma-IND/VocaRAG">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=VocaRAG&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="VocaRAG project"/>
-</a>
+<div align="center">
+<img src="./assets/project-avatars/vocarag.png" width="150" alt="VocaRAG 3D avatar"/>
+</div>
 
 ### VOCARAG
 
@@ -144,9 +145,9 @@ Voice-enabled multilingual Retrieval-Augmented Generation, combining speech proc
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ArnavSharma-IND/SignalForge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=SignalForge&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="SignalForge project"/>
-</a>
+<div align="center">
+<img src="./assets/project-avatars/signalforge.png" width="150" alt="SignalForge 3D avatar"/>
+</div>
 
 ### SIGNALFORGE
 
@@ -155,9 +156,9 @@ AI-assisted financial research that connects evidence, detects contradictions, a
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ArnavSharma-IND/Pramaan_v2.0">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavSharma-IND&repo=Pramaan_v2.0&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&icon_color=9B8CFF" width="100%" alt="Pramaan project"/>
-</a>
+<div align="center">
+<img src="./assets/project-avatars/pramaan.png" width="150" alt="Pramaan 3D avatar"/>
+</div>
 
 ### PRAMAAN
 
