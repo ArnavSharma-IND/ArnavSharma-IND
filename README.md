@@ -262,13 +262,6 @@ A regulatory surveillance system concept combining computer vision, OCR, rule-ba
 
 <div align="center">
 
-### CONTRIBUTION OVERVIEW
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArnavSharma-IND&show_icons=true&hide_border=true&bg_color=0B1020&title_color=75C9FF&icon_color=9B8CFF&text_color=DCE7F7&rank_icon=github" height="180" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArnavSharma-IND&layout=compact&hide_border=true&bg_color=0B1020&title_color=75C9FF&text_color=DCE7F7&langs_count=8" height="180" alt="Most Used Languages"/>
-
-<br/><br/>
 
 ### CONTRIBUTION STREAK
 
@@ -276,12 +269,7 @@ A regulatory surveillance system concept combining computer vision, OCR, rule-ba
 
 <br/><br/>
 
-### CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSharma-IND&bg_color=0B1020&color=DCE7F7&line=75C9FF&point=9B8CFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
-
 </div>
-
 
 ---
 
