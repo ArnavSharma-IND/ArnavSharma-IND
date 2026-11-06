@@ -276,9 +276,10 @@ A regulatory surveillance system concept combining computer vision, OCR, rule-ba
 ## ◈ CERTIFICATIONS & ACHIEVEMENTS
 
 - **NPTEL – Programming in Java:** Elite + Gold Medal, 93%
-- **IBM Data Analyst:** Certificate completed
-- **Deloitte:** Technology Job Simulation
-- **Pinnacle Labs:** Web Development Virtual Internship
+- **META Full Stack Development** 
+- **Deloitte:** Technology, Cyber, Data Analytics Job Simulation
+- **British Airways:** Data Science Job Simulation
+- **Master Card:** Cyber Security Job Simulation
 - **Hackathons and Technical Events:** Active participation in development and innovation events
 
 ---
