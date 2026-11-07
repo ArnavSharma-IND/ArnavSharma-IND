@@ -211,7 +211,7 @@ A regulatory surveillance system concept combining computer vision, OCR, rule-ba
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,r&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript,r&theme=dark" alt="Programming languages"/>
 
 ### Frontend Development
 
