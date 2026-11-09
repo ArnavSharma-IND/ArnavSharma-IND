@@ -266,7 +266,7 @@ A regulatory surveillance system concept combining computer vision, OCR, rule-ba
 
 ### CONTRIBUTION STREAK
 
-<img src="https://streak-stats.demolab.com?user=ArnavSharma-IND&theme=transparent&hide_border=true&background=0B1020&ring=75C9FF&fire=9B8CFF&currStreakLabel=75C9FF&sideLabels=DCE7F7&dates=91A4C2&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=ArnavSharma-IND&theme=transparent&hide_border=true&background=0B1020&ring=75C9FF&fire=9B8CFF&currStreakLabel=75C9FF&sideLabels=DCE7F7&dates=91A4C2&currStreakNum=FFFFFF&sideNums=FFFFFF&v=20261109" width="80%" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
